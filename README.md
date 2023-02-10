@@ -10,7 +10,7 @@
 ### 清单列表
 
 - ✔ 实现 effect & reactive & 依赖收集 & 触发依赖
-- [ ] 实现 effect 返回 runner
+- ✔ 实现 effect 返回 runner
 - [ ] 实现 effect 的 scheduler 功能
 - [ ] 实现 stop 功能
 - [ ] 实现 readonly 功能
