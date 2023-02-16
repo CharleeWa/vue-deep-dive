@@ -10,6 +10,12 @@ importers:
       typescript: 4.9.5
       vitest: 0.28.3
 
+  packages/reactivity:
+    specifiers:
+      '@vue-deep-dive/shared': workspace:^1.0.0
+    dependencies:
+      '@vue-deep-dive/shared': link:../shared
+
 packages:
 
   /@esbuild/android-arm/0.16.17:

@@ -1,5 +1,5 @@
 {
-  "name": "@vue-deep-dive/reactivity",
+  "name": "@vue-deep-dive/shared",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,8 +8,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "@vue-deep-dive/shared": "workspace:^1.0.0"
-  }
+  "license": "ISC"
 }
